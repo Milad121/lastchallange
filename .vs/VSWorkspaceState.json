@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\client",
+    "\\client\\src\\components",
+    "\\client\\src\\pages",
+    "\\Local settings (.vs)",
+    "\\server\\controller",
+    "\\server\\db",
+    "\\server\\models",
+    "\\server\\routes"
   ],
   "PreviewInSolutionExplorer": false
 }
